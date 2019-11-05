@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P2p1kjrm</string>
+    <string name="Titulo">Manejo de redes de seleccion</string>
+    <string name="Text2">Selecciona tu carrera</string>
+    <string name="text1">Manejo de radio de Seleccion</string>
+    <string name="Text">Selecciona tu Carrera</string>
+    <string name="isc">ISC</string>
+    <string name="itics">ITICS</string>
+    <string name="ambirntal" />
+    <string name="Ambiental">AMBIENTAL</string>
+    <string name="gastronomia">GASTRONOMIA</string>
+    <string name="BUTTON">MENSAJE</string>
+    <string name="button">MENSAJE</string>
+    <string name="BUT2">USO DE INTERNET</string>
+    <string name="CHECK1">CASA</string>
+    <string name="CHECK2">ESCUELA</string>
+    <string name="CHECK3">TRABAJO</string>
+    <string name="CHECK2">ESCUELA</string>
+    <string name="CHECK3">TRABAJO</string>
+</resources>
